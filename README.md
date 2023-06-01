@@ -19,3 +19,5 @@
 8. [Basic Counter](https://fsjs-counter-app.netlify.app/)
 
 9. [Binary to Decimal](https://fsjs-binarytodecimal-converter.netlify.app/)
+
+10. [Calculator](https://fsjs-calculator-app.netlify.app/)
