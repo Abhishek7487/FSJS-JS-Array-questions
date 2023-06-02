@@ -21,3 +21,9 @@
 9. [Binary to Decimal](https://fsjs-binarytodecimal-converter.netlify.app/)
 
 10. [Calculator](https://fsjs-calculator-app.netlify.app/)
+
+11. [Click the Button](click-the-btn.netlify.app)
+
+12. [Todo](fsjs-todo-app.netlify.app)
+
+13 [See what you typed](see-what-you-typed.netlify.app)
