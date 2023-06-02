@@ -22,8 +22,8 @@
 
 10. [Calculator](https://fsjs-calculator-app.netlify.app/)
 
-11. [Click the Button](click-the-btn.netlify.app)
+11. [Click the Button](https://click-the-btn.netlify.app/)
 
-12. [Todo](fsjs-todo-app.netlify.app)
+12. [Todo](https://fsjs-todo-app.netlify.app)
 
-13 [See what you typed](see-what-you-typed.netlify.app)
+13 [See what you typed](https://see-what-you-typed.netlify.app)
